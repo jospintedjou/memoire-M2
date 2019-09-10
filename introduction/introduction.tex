@@ -1,0 +1,30 @@
+\chapter{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+\markboth{Introduction}{}
+
+\section*{contexte}
+De nos jours, il n'est plus possible d'imaginer un secteur d'activité qui ne fait pas usage des outils logiciels. On les utilise  dans le domaine de la finance, des transports, la gestion de stocks, l'éducation et bien d'autres. Leur mise en place est toutefois très coûteuse en termes de budget, d’effort, de temps de réalisation et sujette à des risques d’échec. Il devient alors intéressant de produire des logiciels de meilleure qualité à faible coût et rapidement; c'est le but principal de l'ingénierie de ligne de produits logiciels \cite{Klaus2005}.  Elle se base sur le fait que les logiciels développés aujourd'hui ne sont pas nouveaux mais sont des variantes de systèmes déjà développés dans le même secteur d’activité \cite{Fouda2009}. Dans le domaine de la gestion académique par exemple, un système logiciel pour une nouvelle université est une variante des systèmes existants, déployés dans les autres universités et qui a ses propres spécificités. Il traitera comme les autres des étudiants, des enseignants, des matières, des notes mais peut avoir son propre système de notes différent de celui des autres logiciels du domaine. Un domaine peut être vu comme \glsdesc{domaine} \cite{Klaus2005}.
+
+Au lieu de construire des logiciels en partant de rien (from scratch), l'objectif désormais est de construire des familles de logiciels desquelles seront dérivés les logiciels du domaine. Les connaissances accumulées dans le domaine concerné sont ainsi exploitées. 
+Comme le souligne Urli \cite{Urli2015}, plusieurs définitions sont utilisées dans la littérature pour qualifier les Lignes de produits mais celle de Clements et Northrop est très souvent citée dans les travaux du domaine. Selon elle, une famille de logiciels ou ligne de produit logiciel (LPL) est \glsdesc{LPL_def} \cite{Clements2002}. 
+
+\section*{problématique} 
+Le développement des lignes de produits se fait par une nouvelle idéologie appelée Ingénierie de ligne de produits logiciels qui vise la production des familles de logiciels ou lignes de produits logiciels. Pohl et al. définissent l’ingénierie des LPL comme \glsdesc{ILP_def} \cite{Klaus2005}. 
+
+L'ingénierie de ligne de produits est constituée de deux étapes principales: l'ingénierie de domaine et l'ingénierie applicative \cite{Klaus2005}. L'ingénierie de domaine analyse le domaine pour en cerner les propriétés communes aux applications du domaine (commonalities en anglais) et les propriétés variables (variabilities en anglais) afin de produire l'ensemble des artéfacts logiciels réutilisables. L'ingénierie applicative quant à elle permet de construire les logiciels membres de la famille selon les besoins spécifiques en utilisant les artéfacts produits par l'ingénierie de domaine en exploitant la variabilité. Ainsi, le développement d'un nouveau  logiciel revient à analyser les besoins spécifiques, paramétrer la plateforme support en choisissant les composants adéquats et générer le code du logiciel. L'ingénierie de ligne de produit fait alors intervenir l'Ingénierie Dirigée par les Modèles(IDM) lors de la dérivation d'un produit de la ligne \cite{Ngassam2017}.
+
+Plusieurs méthodes de développement de lignes de produits ont été proposées dans la littérature: FAST(Family oriented Abstraction, Specification and Translation), PuLSE (Product Line Software Engineering)  ,ODM (Organization Domain Modeling), DARE (Domain Analysis and Reuse Environment), FODA (Feature Oriented Domain Analysis), FORM(Feature Oriented Reuse Method) etc. La méthode FORM étend la méthode FODA basée sur les caractéristiques (features) qui a été longuement exploitée dans les applications industrielles. 
+
+En 2009, le Professeur \emph{Marcel FOUDA NDJODO} et le Docteur \emph{AMOUGOU NGOUMOU} ont proposé la méthode FORM/BCS (Feature Oriented Reuse Method with Business Component Semantics) \cite{Fouda2009} qui étend la méthode FORM pour entre autre élargir son application aux systèmes d’information. C'est cette méthode qui suscite notre intérêt dans le cadre de ce travail.
+
+\section*{question de recherche et résultats attendus}
+La méthode FORM/BCS ne dispose pas encore d’outils support pour permettre son exploitation dans la pratique. La question principale qui motive ce travail est alors la suivante. Comment peut se présenter la description formelle d'un éditeur de composants métiers caractéristiques? Cette question est d'autant plus importante que les composants métiers caractéristiques sont au centre de FOMR/BCS, il est donc indispensable de fournir aux ingénieurs logiciel un éditeur basé sur ladite méthode qui facilite la saisie des composants métiers caractéristiques.   Dès lors dans le cadre de ce travail, nous voulons contribuer à la mise en place d’une plateforme support pour la manipulation dynamique des lignes de produits de FORM/BCS. Nous nous attellerons plus spécifiquement à la conception et à l’implémentation de l’architecture d’un éditeur de composants métiers caractéristiques (\textit{feature business components}) en tant que plug-in Eclipse à l’aide de l’outil EMF (Eclipse Modeling Framework). 
+
+\section*{méthodologie}
+Pour réaliser ce travail, nous devons tout d'abord comprendre la méthode FORM/BCS en étudiant les propriétés du modèle, puis étudier l'embryon de plate-forme support actuelle de FORM/BCS ainsi que le plugin EMF (Eclipse Modeling Framework) et ses dérivés. Enfin il nous reviendra de donner une description formelle de l'éditeur de composants métier caractéristiques de FORM/BCS pour permettre l'expansion de la plateforme.
+
+\section*{plan}
+Ce travail est structuré comme suit. D'abord le chapitre 1 présente l'état de l'art des architectures de quelques outils de ligne de produits logiciels. Ensuite le chapitre 2 explique la méthode FORM/BCS en détaillant les caractéristiques du modèle de FORM/BCS. Puis, le chapitre 3 présente la mise en œuvre qu'il nous a été donné de réaliser, il récapitule les étapes de réalisation de l'éditeur de composant métier caractéristique de FORM/BCS et décrit l’architecture de ce dernier. 
+
+
+

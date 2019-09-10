@@ -1,0 +1,360 @@
+\ifglsentryexists{LPL}{}%
+{%
+\gls@defglossaryentry{LPL}%
+{%
+name={LPL},%
+sort={LPL},%
+type={main},%
+first={Ligne de produit logiciels\glsspace (LPL)},%
+firstplural={Ligne de produit logicielss\glsspace (LPLs)},%
+text={LPL},%
+plural={LPLs},%
+description={Ligne de produit logiciels},%
+descriptionplural={Ligne de produit logiciels\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ligne de produit logiciels},%
+longplural={Ligne de produit logicielss},%
+short={LPL},%
+shortplural={LPLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ILP}{}%
+{%
+\gls@defglossaryentry{ILP}%
+{%
+name={ILP},%
+sort={ILP},%
+type={main},%
+first={Ing\IeC {\'e}nierie de Ligne de Produits\glsspace (ILP)},%
+firstplural={Ing\IeC {\'e}nierie de Ligne de Produitss\glsspace (ILPs)},%
+text={ILP},%
+plural={ILPs},%
+description={Ingénierie de Ligne de Produits},%
+descriptionplural={Ingénierie de Ligne de Produits\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ing\IeC {\'e}nierie de Ligne de Produits},%
+longplural={Ing\IeC {\'e}nierie de Ligne de Produitss},%
+short={ILP},%
+shortplural={ILPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EMF}{}%
+{%
+\gls@defglossaryentry{EMF}%
+{%
+name={EMF},%
+sort={EMF},%
+type={main},%
+first={Eclipse Modeling Framework\glsspace (EMF)},%
+firstplural={Eclipse Modeling Frameworks\glsspace (EMFs)},%
+text={EMF},%
+plural={EMFs},%
+description={Eclipse Modeling Framework},%
+descriptionplural={Eclipse Modeling Framework\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Eclipse Modeling Framework},%
+longplural={Eclipse Modeling Frameworks},%
+short={EMF},%
+shortplural={EMFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FODA}{}%
+{%
+\gls@defglossaryentry{FODA}%
+{%
+name={FODA},%
+sort={FODA},%
+type={main},%
+first={Feature Oriented Domain Analysis\glsspace (FODA)},%
+firstplural={Feature Oriented Domain Analysiss\glsspace (FODAs)},%
+text={FODA},%
+plural={FODAs},%
+description={Feature Oriented Domain Analysis},%
+descriptionplural={Feature Oriented Domain Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Feature Oriented Domain Analysis},%
+longplural={Feature Oriented Domain Analysiss},%
+short={FODA},%
+shortplural={FODAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FORM}{}%
+{%
+\gls@defglossaryentry{FORM}%
+{%
+name={FORM},%
+sort={FORM},%
+type={main},%
+first={Feature Oriented Reused Method\glsspace (FORM)},%
+firstplural={Feature Oriented Reused Methods\glsspace (FORMs)},%
+text={FORM},%
+plural={FORMs},%
+description={Feature Oriented Reused Method},%
+descriptionplural={Feature Oriented Reused Method\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Feature Oriented Reused Method},%
+longplural={Feature Oriented Reused Methods},%
+short={FORM},%
+shortplural={FORMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DSL}{}%
+{%
+\gls@defglossaryentry{DSL}%
+{%
+name={DSL},%
+sort={DSL},%
+type={main},%
+first={Domain Specific Language\glsspace (DSL)},%
+firstplural={Domain Specific Languages\glsspace (DSLs)},%
+text={DSL},%
+plural={DSLs},%
+description={Domain Specific Language},%
+descriptionplural={Domain Specific Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Domain Specific Language},%
+longplural={Domain Specific Languages},%
+short={DSL},%
+shortplural={DSLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LPL_def}{}%
+{%
+\gls@defglossaryentry{LPL_def}%
+{%
+name={LPL},%
+sort={LPL},%
+type={main},%
+first={LPL},%
+firstplural={LPLs},%
+text={LPL},%
+plural={LPLs},%
+description={un ensemble de logiciels partageant des propriétés communes, satisfaisant des besoins spécifiques pour un domaine donné et développées de façon contrôlée à partir d'un ensemble commun d’artefacts},%
+descriptionplural={un ensemble de logiciels partageant des propriétés communes, satisfaisant des besoins spécifiques pour un domaine donné et développées de façon contrôlée à partir d'un ensemble commun d’artefacts},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{domaine}{}%
+{%
+\gls@defglossaryentry{domaine}%
+{%
+name={domaine},%
+sort={domaine},%
+type={main},%
+first={domaine},%
+firstplural={domaines},%
+text={domaine},%
+plural={domaines},%
+description={un secteur d'activité ou une zone de connaissance dirigé par un ensemble de besoins et caractérisé par des concepts et des terminologies compréhensibles par les acteurs de ce secteur},%
+descriptionplural={un secteur d'activité ou une zone de connaissance dirigé par un ensemble de besoins et caractérisé par des concepts et des terminologies compréhensibles par les acteurs de ce secteur},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ILP_def}{}%
+{%
+\gls@defglossaryentry{ILP_def}%
+{%
+name={ILP},%
+sort={ILP},%
+type={main},%
+first={ILP},%
+firstplural={ILPs},%
+text={ILP},%
+plural={ILPs},%
+description={un paradigme de développement de logiciels utilisant une plateforme logicielle commune et la personnalisation de masse},%
+descriptionplural={un paradigme de développement de logiciels utilisant une plateforme logicielle commune et la personnalisation de masse},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ingenierie_de_domaine}{}%
+{%
+\gls@defglossaryentry{ingenierie_de_domaine}%
+{%
+name={ingénierie},%
+sort={ingénierie},%
+type={main},%
+first={ing\IeC {\'e}nierie},%
+firstplural={ing\IeC {\'e}nieries},%
+text={ing\IeC {\'e}nierie},%
+plural={ing\IeC {\'e}nieries},%
+description={le processus de l'ingénierie de ligne de produits qui permet l'analyse, la spécification et l'implémentation des artéfacts logiciels dans un domaine qui sont utilisés pour construire les systèmes logiciels dans ce domaine},%
+descriptionplural={le processus de l'ingénierie de ligne de produits qui permet l'analyse, la spécification et l'implémentation des artéfacts logiciels dans un domaine qui sont utilisés pour construire les systèmes logiciels dans ce domaine},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{variabilite}{}%
+{%
+\gls@defglossaryentry{variabilite}%
+{%
+name={variabilité},%
+sort={variabilité},%
+type={main},%
+first={variabilit\IeC {\'e}},%
+firstplural={variabilit\IeC {\'e}s},%
+text={variabilit\IeC {\'e}},%
+plural={variabilit\IeC {\'e}s},%
+description={l'ensemble des différences, décrites de façon structuré, de toutes ou d'une partie des caractéristiques d'une famille de logiciels},%
+descriptionplural={l'ensemble des différences, décrites de façon structuré, de toutes ou d'une partie des caractéristiques d'une famille de logiciels},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{feature}{}%
+{%
+\gls@defglossaryentry{feature}%
+{%
+name={caractéristique},%
+sort={caractéristique},%
+type={main},%
+first={caract\IeC {\'e}ristique},%
+firstplural={caract\IeC {\'e}ristiques},%
+text={caract\IeC {\'e}ristique},%
+plural={caract\IeC {\'e}ristiques},%
+description={un aspect, une qualité ou une caractéristique, d'un logiciel ou d'une famille de logiciel, importante et visible par l'utilisateur},%
+descriptionplural={un aspect, une qualité ou une caractéristique, d'un logiciel ou d'une famille de logiciel, importante et visible par l'utilisateur},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
