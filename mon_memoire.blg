@@ -1,5 +1,11 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: mon_memoire.aux
-I found no \citation commands---while reading file mon_memoire.aux
-I found no \bibdata command---while reading file mon_memoire.aux
-I found no \bibstyle command---while reading file mon_memoire.aux
-(There were 3 error messages)
+[0] Config.pm:324> INFO - This is Biber 2.1
+[1] Config.pm:327> INFO - Logfile is 'mon_memoire.blg'
+[73] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[74] Biber.pm:333> INFO - Reading 'mon_memoire.bcf'
+[348] Utils.pm:146> WARN - Warning: Found biblatex control file version 3.4, expected version 2.7
+[352] Biber.pm:642> INFO - Using all citekeys in bib section 0
+[652] Biber.pm:2977> INFO - Processing section 0
+[679] Biber.pm:3115> INFO - Looking for bibtex format file '../bibliographie/bibliographie.bib' for section 0
+[787] Utils.pm:162> ERROR - Cannot find '../bibliographie/bibliographie.bib'!
+[788] Biber.pm:106> INFO - WARNINGS: 1
+[789] Biber.pm:110> INFO - ERRORS: 1

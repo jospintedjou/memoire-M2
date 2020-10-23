@@ -47,20 +47,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Description formelle de l'\IeC {\'e}diteur de composants m\IeC {\'e}tiers caract\IeC {\'e}ristiques}{16}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.1}Pr\IeC {\'e}sentation de l'\IeC {\'e}diteur}{16}{subsection.4.0.1}
+\contentsline {section}{\numberline {4.1}Pr\IeC {\'e}sentation de l'\IeC {\'e}diteur}{16}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.2}Description formelle}{17}{subsection.4.0.2}
+\contentsline {subsection}{\numberline {4.1.1}Description non-formelle de l'embryon}{17}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Conclusion}{18}{chapter*.7}
+\contentsline {section}{\numberline {4.2}Description formelle}{17}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Remerciements}{19}{appendix*.8}
+\contentsline {chapter}{Conclusion}{19}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Glossaire}{19}{appendix*.8}
+\contentsline {chapter}{Remerciements}{21}{appendix*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Liste des abr\IeC {\'e}viations, des sigles et des symboles}{19}{appendix*.8}
+\contentsline {chapter}{Glossaire}{21}{appendix*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{19}{appendix*.8}
+\contentsline {chapter}{Liste des abr\IeC {\'e}viations, des sigles et des symboles}{21}{appendix*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Table des figures}{20}{appendix*.9}
+\contentsline {chapter}{Bibliographie}{21}{appendix*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Liste des tableaux}{21}{appendix*.10}
+\contentsline {chapter}{Table des figures}{22}{appendix*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Liste des tableaux}{23}{appendix*.10}

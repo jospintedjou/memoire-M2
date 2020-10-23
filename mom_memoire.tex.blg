@@ -1,0 +1,5 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[1] Config.pm:327> INFO - Logfile is 'mom_memoire.tex.blg'
+[152] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[320] Utils.pm:162> ERROR - Cannot find control file 'mom_memoire.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[323] Biber.pm:110> INFO - ERRORS: 1
